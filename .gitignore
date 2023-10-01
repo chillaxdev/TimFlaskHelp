@@ -1,0 +1,5 @@
+# Ignore Jetbrains
+/.idea
+
+# Ignore virtual env
+/venv
